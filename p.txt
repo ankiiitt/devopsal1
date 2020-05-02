@@ -1,1 +1,2 @@
 print(first line)
+prnt(second line)
